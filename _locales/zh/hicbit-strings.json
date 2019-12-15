@@ -54,6 +54,10 @@
 	"hicbit_Port_IR.port4|block":"接口4",
 
 	"{id:category}RGB_light": "Hicbit彩灯",
+	"hicbitLight.Light1|block":"彩灯1",
+	"hicbitLight.Light2|block":"彩灯2",
+	"hicbitLight.Light3|block":"彩灯3",
+	"hicbitLight.All|block":"全部",
 	"RGB_light.hicbit_Port.port1|block":"接口1",
 	"RGB_light.hicbit_Port.port2|block":"接口2",
 	"RGB_light.hicbit_Port.port3|block":"接口3",
@@ -62,12 +66,6 @@
 	"RGB_light.hicbit_setPixelRGB|block":"设置|%lightoffset|的RGB为红|%red|绿|%green|蓝|%blue|",
 	"RGB_light.hicbit_showLight|block":"显示RGB灯",
 	"RGB_light.hicbit_clearLight|block":"关闭RGB灯",
-	
-	"hicbitLight.Light1|block":"彩灯1",
-	"hicbitLight.Light2|block":"彩灯2",
-	"hicbitLight.Light3|block":"彩灯3",
-	"hicbitLight.All|block":"全部",
-
 
 	"{id:category}Display": "Hicbit显示",
 	"Display.Hicbit_Display_Init|block":"屏幕显示初始化，才能使屏幕显示",
