@@ -1052,7 +1052,7 @@ namespace IR {
 /**
  * RGB light
  */
-//% color=8B8B7A weight=7
+//% color=CD9B9B weight=7
 //% icon="\uf0eb"
 namespace RGB_light {
 
